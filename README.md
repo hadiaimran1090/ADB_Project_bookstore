@@ -30,7 +30,7 @@ cd backend
 npm install
 **Create .env in the root of the backend (same level as package.json).**
 
-Paste the your environment variables into .env:
+Paste  your environment variables into .env:
 
 DB_URL="mongodb+srv://helpyourassistant:pqam0Mwv3Vwv8Off@cluster0.qc3bq.mongodb.net/book-store?retryWrites=true&w=majority&appName=Cluster0"
 

@@ -9,6 +9,7 @@ cd frontend
 Create .env.local in the root of the frontend (where package.json is).
 
 **Paste your Firebase config into .env.local:**
+
 VITE_API_KEY="AIzaSyCXvDIC4MPrkaMdeg_O2iij88wLpfj3qBA"
 VITE_Auth_Domain="book-store-mern-app.firebaseapp.com"
 VITE_PROJECT_ID="book-store-mern-app"
